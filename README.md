@@ -1,2 +1,2 @@
 # comic-site
-This will be a landing page for a client.
+Landing page for a client. I had to fork the code so I could have my own copy!
